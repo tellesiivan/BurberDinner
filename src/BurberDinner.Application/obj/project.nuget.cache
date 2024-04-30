@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5zMk1AVVN8qmuhKx7we06gjR17CXWg7lJ5GXIDFPbSqDHCryIi6oBARSwLbPrG6I800yNnrO9Lxes/9J5OaMA==",
+  "success": false,
+  "projectFilePath": "/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Application/BurberDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/tellesivan/.nuget/packages/ardalis.smartenum/7.0.0/ardalis.smartenum.7.0.0.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/erroror/1.6.0/erroror.1.6.0.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/oneof/3.0.216/oneof.3.0.216.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/stylecop.analyzers/1.2.0-beta.556/stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/stylecop.analyzers.unstable/1.2.0.556/stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/throw/1.4.0/throw.1.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1507",
+      "level": "Error",
+      "message": "Warning As Error: There are 2 package sources defined in your configuration. When using central package management, please map your package sources with package source mapping (https://aka.ms/nuget-package-source-mapping) or specify a single package source. The following sources are defined: nuget.org, Internal_Package_Feed"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMwhuC+7u9em+HLx8FT+76SWbfQXsm4ZCuGMzCWKPt3kpJeeJFxyLRck9D+w8lbOi41bSPh+VwkZAkosU4jOHg==",
+  "success": false,
+  "projectFilePath": "/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/BurberDinner.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/tellesivan/.nuget/packages/stylecop.analyzers/1.2.0-beta.556/stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "/Users/tellesivan/.nuget/packages/stylecop.analyzers.unstable/1.2.0.556/stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1507",
+      "level": "Error",
+      "message": "Warning As Error: There are 2 package sources defined in your configuration. When using central package management, please map your package sources with package source mapping (https://aka.ms/nuget-package-source-mapping) or specify a single package source. The following sources are defined: nuget.org, Internal_Package_Feed"
+    }
+  ]
+}
