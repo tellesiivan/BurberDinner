@@ -1,0 +1,8 @@
+{
+  "BurberDinner.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tellesivan\/Desktop\/c#\/BurberDinner\/src\/BurberDinner.Api",
+  "BurberDinner.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tellesivan\/Desktop\/c#\/BurberDinner\/src\/BurberDinner.Application",
+  "BurberDinner.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tellesivan\/Desktop\/c#\/BurberDinner\/src\/BurberDinner.Contracts",
+  "BurberDinner.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tellesivan\/Desktop\/c#\/BurberDinner\/src\/BurberDinner.Domain",
+  "BurberDinner.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tellesivan\/Desktop\/c#\/BurberDinner\/src\/BurberDinner.Infrastructure",
+  "TestCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tellesivan\/Desktop\/c#\/BurberDinner\/tests\/TestCommon"
+}

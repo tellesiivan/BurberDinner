@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "4Zzaal/QwMYPJi4G5YNMKhE5qNBEA17I4MSXEf1w39x+9zAZfMfWZm+puSua/Poy443piDL+fyoIlJl/Ll8bEQ==",
-  "success": false,
+  "dgSpecHash": "upiHz8Fg17sz7S6Br3iRQcJy9PaXOcnaYlHvoM+1850buq4BadgAHJDKpFB/2jX/vHyS36jI30Rdktx5lZTRPw==",
+  "success": true,
   "projectFilePath": "/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Domain/BurberDinner.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/tellesivan/.nuget/packages/ardalis.smartenum/7.0.0/ardalis.smartenum.7.0.0.nupkg.sha512",
@@ -14,11 +14,5 @@
     "/Users/tellesivan/.nuget/packages/stylecop.analyzers.unstable/1.2.0.556/stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512",
     "/Users/tellesivan/.nuget/packages/throw/1.4.0/throw.1.4.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1507",
-      "level": "Error",
-      "message": "Warning As Error: There are 2 package sources defined in your configuration. When using central package management, please map your package sources with package source mapping (https://aka.ms/nuget-package-source-mapping) or specify a single package source. The following sources are defined: nuget.org, Internal_Package_Feed"
-    }
-  ]
+  "logs": []
 }

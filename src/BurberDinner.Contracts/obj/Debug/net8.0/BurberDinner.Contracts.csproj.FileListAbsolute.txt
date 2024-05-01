@@ -1,0 +1,12 @@
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/bin/Debug/net8.0/BurberDinner.Contracts.deps.json
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/bin/Debug/net8.0/BurberDinner.Contracts.dll
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/bin/Debug/net8.0/BurberDinner.Contracts.pdb
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/obj/Debug/net8.0/BurberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/obj/Debug/net8.0/BurberDinner.Contracts.AssemblyInfoInputs.cache
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/obj/Debug/net8.0/BurberDinner.Contracts.AssemblyInfo.cs
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/obj/Debug/net8.0/BurberDinner.Contracts.csproj.CoreCompileInputs.cache
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/obj/Debug/net8.0/BurberDinner.Contracts.sourcelink.json
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/obj/Debug/net8.0/BurberDinner.Contracts.dll
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/obj/Debug/net8.0/refint/BurberDinner.Contracts.dll
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/obj/Debug/net8.0/BurberDinner.Contracts.pdb
+/Users/tellesivan/Desktop/c#/BurberDinner/src/BurberDinner.Contracts/obj/Debug/net8.0/ref/BurberDinner.Contracts.dll
